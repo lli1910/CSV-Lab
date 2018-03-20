@@ -11,5 +11,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class BackEnd {
-
+	public static void main (String args[]) {
+		
+	}
+	
+	private static List<Insurance> readInsurance (String fileName){
+		
+	}
+	
 }
